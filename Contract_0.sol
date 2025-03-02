@@ -1,5 +1,4 @@
-1        randomNumber = 41;
-        message = "Hello from commit 0 - 2025-02-28 18:49:44";
+1        message = "Hello from commit 0 - 2025-02-28 18:49:44";
     }
 
     function getMessage() public view returns (string) {
