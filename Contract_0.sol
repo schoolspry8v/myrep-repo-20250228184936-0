@@ -1,5 +1,4 @@
-1    function getMessage() public view returns (string) {
-        return message;
+1        return message;
     }
 
     function getRandomNumber() public view returns (uint256) {
