@@ -1,5 +1,4 @@
-1    string public message;
-
+1
     constructor() {
         randomNumber = 41;
         message = "Hello from commit 0 - 2025-02-28 18:49:44";
