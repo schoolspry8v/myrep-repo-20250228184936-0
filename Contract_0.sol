@@ -1,5 +1,4 @@
-1
-    function getMessage() public view returns (string) {
+1    function getMessage() public view returns (string) {
         return message;
     }
 
