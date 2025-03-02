@@ -1,5 +1,4 @@
-1    uint256 public randomNumber;
-    string public message;
+1    string public message;
 
     constructor() {
         randomNumber = 41;
