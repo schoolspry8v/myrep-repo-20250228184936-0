@@ -1,4 +1,3 @@
-1    function getRandomNumber() public view returns (uint256) {
-        return randomNumber;
+1        return randomNumber;
     }
 }
